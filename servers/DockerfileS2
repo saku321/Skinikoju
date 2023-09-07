@@ -1,0 +1,20 @@
+# Use a Node.js base image
+FROM node:14-alpine
+
+# Set the working directory
+WORKDIR /app
+
+# Copy package.json and package-lock.json to the container
+COPY package.json .
+
+# Install dependencies
+RUN yarn
+
+# Copy the rest of the backend code to the container
+COPY . .
+
+# Expose the desired port
+EXPOSE 3001
+
+# Start the server
+CMD ["node", "login.js"]

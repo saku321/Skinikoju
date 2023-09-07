@@ -1,0 +1,37 @@
+{
+  "2023-05-28T06:41:49.872Z": [
+    {
+      "type": "offer",
+      "timestamp": "Sun May 28 2023 09:41:49 GMT+0300 (Eastern European Summer Time)",
+      "message": "Accepting offer from: 76561198352469614"
+    }
+  ],
+  "2023-05-28T06:47:39.041Z": [
+    {
+      "type": "offer",
+      "timestamp": "Sun May 28 2023 09:47:39 GMT+0300 (Eastern European Summer Time)",
+      "message": "Declining offer from: 76561198352469614"
+    }
+  ],
+  "2023-05-28T06:55:02.330Z": [
+    {
+      "type": "offer",
+      "timestamp": "Sun May 28 2023 09:55:02 GMT+0300 (Eastern European Summer Time)",
+      "message": "Declining offer from: 76561198352469614"
+    }
+  ],
+  "2023-05-28T06:56:24.416Z": [
+    {
+      "type": "offer",
+      "timestamp": "Sun May 28 2023 09:56:24 GMT+0300 (Eastern European Summer Time)",
+      "message": "Declining offer from: 76561199061449782"
+    }
+  ],
+  "2023-05-28T08:23:06.809Z": [
+    {
+      "type": "offer",
+      "timestamp": "Sun May 28 2023 11:23:06 GMT+0300 (Eastern European Summer Time)",
+      "message": "Accepting offer from: 76561198352469614"
+    }
+  ]
+}

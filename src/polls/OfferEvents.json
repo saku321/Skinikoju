@@ -1,0 +1,16 @@
+{
+  "2023-05-07T08:18:09.112Z": [
+    {
+      "type": "offer",
+      "timestamp": "Sun May 07 2023 11:18:09 GMT+0300 (Eastern European Summer Time)",
+      "message": "test"
+    }
+  ],
+  "2023-05-07T08:30:33.485Z": [
+    {
+      "type": "offer",
+      "timestamp": "Sun May 07 2023 11:30:33 GMT+0300 (Eastern European Summer Time)",
+      "message": "Offer created by: 76561198352469614\n with database id: 000103"
+    }
+  ]
+}

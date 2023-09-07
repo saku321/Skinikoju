@@ -1,0 +1,124 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+
+#kojuInfo {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top:10vw;
+    text-align: center;
+}
+#kojuInfo h1{
+    color:#E7E7E8;
+   font-family: 'Fugaz One', cursive;
+    
+}
+#kojuInfo ul{
+    display:inline-flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+   justify-content:center;
+    padding-left: 0;
+}
+#kojuInfo .circle {
+  width: 10em;
+  height: 10em;
+  margin: 20px;
+  border-radius: 50%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid #013581;
+  background-color: #E7E7E8;
+  display: flex; 
+  justify-content: center; 
+}
+
+#kojuInfo ul li {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  margin:25px;
+}
+
+#kojuInfo ul li .label {
+  text-align: center;
+  margin-top: 10px;
+  color:white;
+}
+
+#kojuInfo .circle img {
+  width: 60%;
+  max-width: 100%; 
+}
+
+#footer {
+    position: relative;
+    bottom: 0;
+    background-color: #01080E;
+    width: 100%;
+    height: 200px;
+    display:flex;
+    justify-content:center;
+    margin-top:100px;
+   
+}
+#footer #footerContainer {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    height: 200px;
+    margin: auto;
+}
+
+#footer #footerContainer p {
+    color: #C7C7C7;
+    margin: 0;
+    line-height:27px;
+}
+
+#footer #footerContainer ul {
+    display:inline;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#footer #footerContainer ul li {
+    width:30px;
+    display:inline-block;
+    margin:20px;
+}
+
+
+
+#footer #footerContainer ul li a {
+    text-decoration: none;
+}
+
+#footer #footerContainer ul li img {
+    width: 100%;
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+    #kojuInfo {
+        margin-top: 70vh;
+    }
+
+    #kojuInfo ul li {
+        margin: 10px;
+    }
+
+    #footer #footerContainer {
+        flex-direction: column;
+        height: auto;
+    }
+}
