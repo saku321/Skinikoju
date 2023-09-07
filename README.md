@@ -7,4 +7,5 @@ Valmiita osioita
 -MySql Database johon tallennetaan sivuston vaihto historia, sekä käyttäjän vaihto osoite ja ip
 
 
-![Uploading skinikoju.jpg…]()
+![image](https://github.com/saku321/Skinikoju/assets/38668881/7646d451-7a5f-4abb-8161-f5c3aa8a9c22)
+
