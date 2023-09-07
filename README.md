@@ -1,9 +1,15 @@
 # Skinikoju
 Skinikoju on puoliksi valmis Cs skinien myynti sivusto.
+
 Valmiita osioita
--Steam login
--Steam botti -> joka hyväksyy tietyn vaihtotarjoukset
+------------------
+
+-Steam tunnuksella kirjautuminen
+
+-Steam botti -> joka hyväksyy tietyn vaihtotarjoukset, jos tarjouksen tiedot löytyy databasesta
+
 -Sivulle latautuva tavaraluettelo toimii pricempire.comin apin kautta
+
 -MySql Database johon tallennetaan sivuston vaihto historia, sekä käyttäjän vaihto osoite ja ip
 
 
