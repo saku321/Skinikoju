@@ -16,5 +16,5 @@ Valmiita osioita
 -Botin tapahtumat tallennetaan polls kansioon json tiedostoon
 
 
-![image](https://github.com/saku321/Skinikoju/assets/38668881/7646d451-7a5f-4abb-8161-f5c3aa8a9c22)
+![image]([https://github.com/saku321/Skinikoju/assets/38668881/7646d451-7a5f-4abb-8161-f5c3aa8a9c22](https://gyazo.com/f5fe6d32c90cf616b6f86d71d621d414)https://gyazo.com/f5fe6d32c90cf616b6f86d71d621d414)
 
