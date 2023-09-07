@@ -1,5 +1,6 @@
 # Skinikoju
 Skinikoju on puoliksi valmis Cs skinien myynti sivusto.
+Toteutettu Reactilla ja nodeJs
 
 Valmiita osioita
 ------------------
